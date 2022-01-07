@@ -1,12 +1,12 @@
 {
   "name": "github-pr-commit-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webserver that caches the commit number for PR's",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Ethan Lambert",
+  "license": "MIT"
 }
